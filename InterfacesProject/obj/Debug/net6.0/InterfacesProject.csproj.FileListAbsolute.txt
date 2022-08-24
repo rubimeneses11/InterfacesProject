@@ -1,0 +1,15 @@
+/Users/luisangelmeneses/Desktop/repos/InterfacesProject/InterfacesProject/bin/Debug/net6.0/InterfacesProject
+/Users/luisangelmeneses/Desktop/repos/InterfacesProject/InterfacesProject/bin/Debug/net6.0/InterfacesProject.deps.json
+/Users/luisangelmeneses/Desktop/repos/InterfacesProject/InterfacesProject/bin/Debug/net6.0/InterfacesProject.runtimeconfig.json
+/Users/luisangelmeneses/Desktop/repos/InterfacesProject/InterfacesProject/bin/Debug/net6.0/InterfacesProject.dll
+/Users/luisangelmeneses/Desktop/repos/InterfacesProject/InterfacesProject/bin/Debug/net6.0/InterfacesProject.pdb
+/Users/luisangelmeneses/Desktop/repos/InterfacesProject/InterfacesProject/obj/Debug/net6.0/InterfacesProject.csproj.AssemblyReference.cache
+/Users/luisangelmeneses/Desktop/repos/InterfacesProject/InterfacesProject/obj/Debug/net6.0/InterfacesProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisangelmeneses/Desktop/repos/InterfacesProject/InterfacesProject/obj/Debug/net6.0/InterfacesProject.AssemblyInfoInputs.cache
+/Users/luisangelmeneses/Desktop/repos/InterfacesProject/InterfacesProject/obj/Debug/net6.0/InterfacesProject.AssemblyInfo.cs
+/Users/luisangelmeneses/Desktop/repos/InterfacesProject/InterfacesProject/obj/Debug/net6.0/InterfacesProject.csproj.CoreCompileInputs.cache
+/Users/luisangelmeneses/Desktop/repos/InterfacesProject/InterfacesProject/obj/Debug/net6.0/InterfacesProject.dll
+/Users/luisangelmeneses/Desktop/repos/InterfacesProject/InterfacesProject/obj/Debug/net6.0/refint/InterfacesProject.dll
+/Users/luisangelmeneses/Desktop/repos/InterfacesProject/InterfacesProject/obj/Debug/net6.0/InterfacesProject.pdb
+/Users/luisangelmeneses/Desktop/repos/InterfacesProject/InterfacesProject/obj/Debug/net6.0/InterfacesProject.genruntimeconfig.cache
+/Users/luisangelmeneses/Desktop/repos/InterfacesProject/InterfacesProject/obj/Debug/net6.0/ref/InterfacesProject.dll
